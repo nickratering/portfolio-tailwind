@@ -5,7 +5,7 @@
 <br/>
 
 Website Portfolio ini dibuat dengan menggunakan Framework Tailwind CSS v3.3.1.<br>
-dengan sumber latihan di channel youtube WPU. Dan menerapkan fitur dark mode serta menggunakan<br>
+Dengan sumber latihan di channel youtube WPU. Dan menerapkan fitur dark mode serta menggunakan<br>
 sedikit animasi dari AOS dan GSAP.
 
 *Sumber Referensi :*<br>
